@@ -2,7 +2,7 @@
 
 - Número del equipo:equipo 17
 
-- Nombre del proyecto: Bllue Souls 
+- Nombre del proyecto: Blue Souls 
 
 - Una descripción corta (2-3 frases) sobre el proyecto: Nuestro proyecto consiste en la creación de un página web interactiva que ayude a niños con autismo a desarrollar habilidades cognitivas y así promover la inclusión de personas con este trastorno en la sociedad.
 
