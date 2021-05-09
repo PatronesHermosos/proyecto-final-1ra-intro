@@ -6,7 +6,7 @@
 
 - Una descripción corta (2-3 frases) sobre el proyecto: Nuestro trabajo se basa principalmente en representar el logo de "Patrones Hermosos" que nos muestra la equidad de género y la igualdad que debe de existir entre todas las personas sin importar (como se muestra en la obra) sus colores, tamaños y formas. 
 
-- Una lista de los recursos que cada miembro de nuestro grupo utilizamos y las citas para cada uno: https://css-tricks.com/the-shapes-of-css/ https://developer.mozilla.org/es/docs/Web/CSS/transform-function/rotate()
+- Una lista de los recursos que cada miembro de nuestro grupo utilizamos y las citas para cada uno: https://css-tricks.com/the-shapes-of-css/ https://developer.mozilla.org/es/docs/Web/CSS/transform-function/rotate() https://www.w3schools.com/cssref/css3_pr_transform.asp 
 
 - Link para el video entregable #1: https://youtu.be/hMhknDLX__o
 
