@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body{
+    background: rgb(167, 53, 53);
+  }
+
+  .a-hand{
+    width: 90%;
+    padding: 8% 20%;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    left: -300px;
+    transform: rotate(90deg);
+  }
+  .finger{
+    height: 130px;
+    width: 26px;
+    z-index: 3;
+    border-radius: 0%;
+    position: relative;
+    left: -20px;
+    bottom: -45px;
+    margin-right: 2px;
+    display: inline-block;
+    background:rgb(201, 193, 193) ;
+  }
+  
+  .thumb{
+    width: 30px;
+    height: 80px;
+    margin-right: 7px;
+    -ms-transform: rotate(-28deg);
+    -webkit-transform: rotate(-28deg);
+    -o-transform: rotate(-28deg);
+    transform: rotate(-28deg);
+  }
+
+  .index{
+    margin-right: 3px;
+  }
+
+  .middle{
+   height: 145px; 
+  }
+
+  .ring{
+    margin-right: 3px;
+  }
+
+  .little{
+    width: 24px;
+    height: 100px;
+  }
+
+  .palm{
+    position: relative;
+    height: 120px;
+    width: 150px; 
+    z-index: 3;
+    border-radius: 9%;
+    background: #eee;
+  }
+
+  .wrist{
+    height: 100px;
+    width: 50px; 
+    border-radius: 0%;
+    position: relative;
+    left: 50px;
+    top: -30px;
+    background: yellow;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

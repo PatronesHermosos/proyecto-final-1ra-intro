@@ -1,0 +1,91 @@
+.mano {
+    position:absolute;
+    z-index: 8;
+    left:270px;
+    top:-60px;
+    height:150px;
+    width:80px;
+}
+
+.sleeve{
+    height: 80px;
+    width: 55px;
+    background-color: rgb(226, 186, 52);
+    position: absolute;
+    left: 175px;
+    top: 255px;
+    z-index: 5;
+}
+
+.rectangle {
+    height: 100px;
+    width: 55px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 175px;
+    top: 285px;
+    z-index: 4;
+    border-radius: 20%;
+}
+
+.triangle{
+    border-bottom: 25px solid rgb(198,134,66);
+	border-left: 17px solid transparent;
+	border-right: 17px solid transparent;
+	height: 0;
+	width: 20px;
+    position: absolute;
+    left: 175px;
+    top: 310px;
+    z-index: 6;
+}
+
+.dedo {
+    height: 50px;
+    width: 15px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 180px;
+    top: 360px;
+    border-radius: 8%;
+}
+
+.dedo2 {
+    height: 50px;
+    width: 15px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 195px;
+    top: 365px;
+    border-radius: 8%;
+}
+
+.dedo3 {
+    height: 50px;
+    width: 15px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 210px;
+    top: 360px;
+    border-radius: 10%;
+}
+
+.dedo4 {
+    height: 50px;
+    width: 15px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 215px;
+    top: 340px;
+    border-radius: 10%;
+}
+
+.dedo5 {
+    height: 40px;
+    width: 15px;
+    background-color: rgb(198,134,66);
+    position: absolute;
+    left: 170px;
+    top: 340px;
+    border-radius: 10%;
+}
