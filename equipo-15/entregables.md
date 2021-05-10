@@ -16,4 +16,4 @@
 
 - Link para el video entregable #4:
 
-- Algo más que queremos añadir sobre el proyecto:
+- Algo más que queremos añadir sobre el proyecto: 
