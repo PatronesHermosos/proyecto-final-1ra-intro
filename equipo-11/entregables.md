@@ -19,6 +19,6 @@
 
 - Link para el video entregable #3: https://www.youtube.com/watch?v=yI89leo1czM
 
-- Link para el video entregable #4:
+- Link para el video entregable #4: https://www.youtube.com/watch?v=fTZnueNX4JE
 
-- Algo más que queremos añadir sobre el proyecto: 
+- Algo más que queremos añadir sobre el proyecto: n/a
