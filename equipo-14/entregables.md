@@ -8,8 +8,8 @@
 
 - Una lista de los recursos que cada miembro de nuestro grupo utilizamos y las citas para cada uno:
 - https://developer.mozilla.org/es/docs/Web/CSS/CSS_Images/Using_CSS_gradients
-  https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados
-  https://www.bitdegree.org/learn/javascript-refresh-page
+- https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados
+- https://www.bitdegree.org/learn/javascript-refresh-page
 
 - Link para el video entregable #1:
 
