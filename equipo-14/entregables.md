@@ -10,6 +10,8 @@
 - https://developer.mozilla.org/es/docs/Web/CSS/CSS_Images/Using_CSS_gradients
 - https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados
 - https://www.bitdegree.org/learn/javascript-refresh-page
+- Visual Studio Code
+- Archivo Magic.js
 
 - Link para el video entregable #1:
 
