@@ -1,0 +1,61 @@
+body,html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.nubes,
+.mapa,
+.JERI{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.nubes {
+    width: 500px;
+    height: 362px;
+}
+
+.nubes img {
+    position: relative;
+    z-index: 20;
+}
+
+.JERI img{
+    top: 200px;
+    position: relative;
+    z-index: 30;
+}
+
+
+.mapa {
+    width: 460px;
+    height: 460px;
+    border-radius: 50%;
+    box-shadow: -40px -40px 0 0 rgba(0,0,0,.1)  inset,
+                -80px -80px 0 0 rgba(0,0,0,.1) inset,
+                5px 5px 0 0 rgba(255,255,255,.2) inset;
+    background: url(../img/mapa.jpeg);
+    background-size: cover;
+
+     -webkit-animation: tierra-girando 5s infinite linear;
+}
+
+@-webkit-keyframes tierra-girando {
+    from{
+        background-position: left center;        
+    }
+
+    to {
+        background-position: -350px center; 
+    }
+}
